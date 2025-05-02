@@ -1,6 +1,6 @@
 # RtspCheck
 
-RtspCheck is a Camera Port and Stream Checker used to find open cameras.
+RtspCheck is a CCTV Camera Port and Stream Checker used to find vulnerable open cameras.
 
 # Installation
 pip install rtspcheck
